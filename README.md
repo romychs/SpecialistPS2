@@ -1,7 +1,8 @@
 Адаптер для подключения PS/2 клавиатуры к компьютеру Специалист
 ===============================================================
 
-![Монтаж](Images/render.jpg?raw=true "Рендер")
+![Монтаж](Export/3d-view.png?raw=true "Рендер")
+
 Схема разработана Vinxru, https://github.com/alemorf/retro/tree/master/specialist-ps2_keyboard
 Печатная плата разработана на основе платы от Fifan.
 Тема на форуме, с обсуждением данной схемы https://zx-pk.ru/threads/20586-ps-2-adapter-klaviatury-dlya-spetsialista.html
